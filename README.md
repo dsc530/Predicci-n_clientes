@@ -32,5 +32,5 @@ Este proyecto tiene como objetivo entrenar un modelo de machine learning para re
 
 ## 🚀 Cómo Clonar el Repositorio
 ```bash
-git clone https://github.com/<tu-usuario>/megaline-plan-recommendation.git
+git clone https://https://github.com/dsc530/Prediccion_clientes
 cd megaline-plan-recommendation
